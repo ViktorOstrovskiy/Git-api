@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 5px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.493);
+
+  img {
+    width: 80px;
+  }
+}
